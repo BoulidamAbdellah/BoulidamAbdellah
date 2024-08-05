@@ -27,7 +27,7 @@ I aspire to bring significant added value in my field
 !Python
 !Node.js
 !MySQL
-!Latex
+!LaTeX
 !PHP
 !OracleDB
 !OracleAPEX
@@ -44,3 +44,5 @@ I aspire to bring significant added value in my field
 !Git
 !GitHub
 !Bootstrap
+
+
